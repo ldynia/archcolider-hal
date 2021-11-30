@@ -15,4 +15,5 @@ Non Finalists:
 - https://github.com/nikhilvavs/ArchKata2021
 - https://github.com/antsteamkata/ArchitecturalKata
 - https://github.com/Arun4D/dfg_arc_team
+
 < [Back to Home](../README.md#solution-structure)
